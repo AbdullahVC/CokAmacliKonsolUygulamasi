@@ -1,5 +1,5 @@
-﻿using System.Diagnostics;
-using System.Transactions;
+using System;
+using System.Threading;
 
 Console.Write("Uygulama Açılıyor Lütfen Bekleyiniz: [");
 for (int i = 0; i < 25; i++)
