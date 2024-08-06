@@ -57,10 +57,6 @@ Bu proje, kullanıcıların çeşitli uygulamaları çalıştırabileceği bir �
 
 Eğer projeye katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın.
 
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyebilirsiniz.
-
 ---
 
 Umarım bu proje sizin için faydalı olur. İyi çalışmalar!
