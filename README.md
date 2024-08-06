@@ -14,8 +14,8 @@ Bu proje, kullanıcıların çeşitli uygulamaları çalıştırabileceği bir �
 
 1. **Projeyi Klonlayın veya İndirin**
     ```sh
-    git clone <[repository-url](https://github.com/AbdullahVC/CokAmacliKonsolUygulamasi.git)>
-    cd <repository-directory>
+    git clone <(https://github.com/AbdullahVC/CokAmacliKonsolUygulamasi.git)>
+    cd <CokAmacliKonsolUygulamasi/Program.cs>
     ```
 
 2. **Visual Studio ile Açın**
