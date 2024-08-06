@@ -14,7 +14,7 @@ Bu proje, kullanıcıların çeşitli uygulamaları çalıştırabileceği bir �
 
 1. **Projeyi Klonlayın veya İndirin**
     ```sh
-    git clone <repository-url>
+    git clone <[repository-url](https://github.com/AbdullahVC/CokAmacliKonsolUygulamasi.git)>
     cd <repository-directory>
     ```
 
